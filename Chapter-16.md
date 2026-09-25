@@ -1,4 +1,9 @@
-Chapter 16
+---
+layout: default
+title: Chapter 16 — The Alliance
+permalink: /chapter-16/
+---
+# Chapter 16
 
 Such a nice girl she is… innocent and zero ego.
 
