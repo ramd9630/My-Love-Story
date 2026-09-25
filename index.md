@@ -1,3 +1,4 @@
+
 ---
 layout: default
 title: My Love Story ❤️
@@ -11,4 +12,4 @@ title: My Love Story ❤️
 
 ## 📖 Chapters
 
-- [Chapter 16 — The Alliance](./chapter-16/)
+- [Chapter 16 — The Alliance]({{ site.baseurl }}/chapter-16/)
