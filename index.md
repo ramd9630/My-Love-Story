@@ -11,4 +11,4 @@ title: My Love Story ❤️
 
 ## 📖 Chapters
 
-- [Chapter 16 — The Alliance](chapter-16.md)
+- [Chapter 16 — The Alliance](./chapter-16/)
