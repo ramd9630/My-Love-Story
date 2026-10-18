@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter 17 — A Cup of Tea and a Thousand Candles"
+permalink: /chapter-17/
+---
 Chapter 17 — A Cup of Tea and a Thousand Candles
 
 There was some work in Ashok and Roshni’s team, and the TL had asked Guru and me to help out.
