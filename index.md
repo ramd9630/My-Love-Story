@@ -12,3 +12,4 @@ title: My Love Story ❤️
 ## 📖 Chapters
 
 - [Chapter 16 — The Alliance]({{ site.baseurl }}/chapter-16/)
+- [Chapter 17 — A Cup of Tea pand a Thousand Candles]({{ site.baseurl }}/chapter-17/)
